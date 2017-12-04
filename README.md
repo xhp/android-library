@@ -5,7 +5,7 @@ android library dependencies, Android studio gradle.
 
 1.高德地图
 
-[高德地图](https://github.com/xhp/android-library/doc/amap.md)
+[高德地图](https://github.com/xhp/android-library/blob/master/doc/amap.md)
 
 2.百度地图
 
