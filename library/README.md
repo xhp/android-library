@@ -56,6 +56,8 @@ releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.4'
 compile 'com.google.zxing:core:3.3.1'
 ```
 8.glide [glide](https://github.com/bumptech/glide.git)
+
+https://muyangmin.github.io/glide-docs-cn/
 ```
 compile 'com.github.bumptech.glide:glide:4.3.1'
 compile 'com.android.support:support-v4:23.3.0'
@@ -103,6 +105,8 @@ compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
 compile 'io.reactivex.rxjava2:rxjava:2.1.7'
 ```
 16.retrofit[retrofit](https://github.com/square/retrofit.git)
+
+http://square.github.io/retrofit/
 ```
 compile 'com.squareup.retrofit2:retrofit:2.3.0'
 ```
@@ -110,5 +114,45 @@ compile 'com.squareup.retrofit2:retrofit:2.3.0'
 
 
     compile 'com.android.support:recyclerview-v7:26.0.0-alpha1'
+
+18.multidex
+```
+implementation 'com.android.support:multidex:1.0.2'
+```
+
+19.okio[okio](https://github.com/square/okio.git)
+```
+compile 'com.squareup.okio:okio:1.11.0'
+```
+20.andserver[andserver](https://github.com/yanzhenjie/AndServer.git)
+```
+compile 'com.yanzhenjie:andserver:1.0.3'
+```
+21.socket.io-client[socket.io-client](https://socket.io/blog/native-socket-io-and-android/)
+```
+compile 'com.github.nkzawa:socket.io-client:0.3.0'
+compile 'io.socket:socket.io-client:0.8.3'
+```
+22.netty
+```
+compile 'io.netty:netty-all:4.1.17.Final'
+```
+23.android-gif-drawable[android-gif-drawable](https://github.com/koral--/android-gif-drawable.git)
+```
+compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.8'
+```
+
+24.volley[volley](https://github.com/google/volley.git)
+```
+compile 'com.mcxiaoke.volley:library:1.0.+@aar'
+
+```
+25.android-async-http[android-async-http](http://loopj.com/android-async-http/)
+
+```
+compile 'com.loopj.android:android-async-http:1.4.9'
+```
+
+
 
 .
