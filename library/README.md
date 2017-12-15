@@ -152,7 +152,9 @@ compile 'com.mcxiaoke.volley:library:1.0.+@aar'
 ```
 compile 'com.loopj.android:android-async-http:1.4.9'
 ```
+26.lottie[lottie](http://airbnb.io/lottie/)(https://github.com/airbnb/lottie-android.git)
 
-
-
+```
+compile 'com.airbnb.android:lottie:2.3.2-SNAPSHOT'
+```
 .
